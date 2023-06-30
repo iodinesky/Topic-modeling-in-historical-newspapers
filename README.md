@@ -1,1 +1,1 @@
-# Topic-modeling-in-historical-newspapers.
+# Topic-modeling-of-historical-newspapers.
